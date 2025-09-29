@@ -2,10 +2,10 @@
 Linux-IPC-Pipes
 
 
-Name: G.Sindhu Priya Reddy
+Name: HARISH S
 
 
-Reg No:212224040319
+Reg No:212224110022
 
 
 # Ex03-Linux IPC - Pipes
