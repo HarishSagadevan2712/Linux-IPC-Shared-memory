@@ -8,7 +8,7 @@ Name: HARISH S
 Reg No:212224110022
 
 
-# Ex03-Linux IPC - Pipes
+# Ex06-Linux IPC - Pipes
 
 # AIM:
 To write a C program that illustrate communication between two process using unnamed and named pipes
